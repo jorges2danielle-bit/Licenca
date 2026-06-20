@@ -1,4 +1,4 @@
-aganini Orchestra - Central de Documentação e Licenciamento
+Paganini Orchestra - Central de Documentação e Licenciamento
 Este repositório contém a documentação legal e a central de validação de licenças para a suite de trading quantitativo Paganini Orchestra (que inclui os robôs Paganini e XAUUSD, além do dashboard de telemetria ECC).
 
 📄 Documentos Legais
